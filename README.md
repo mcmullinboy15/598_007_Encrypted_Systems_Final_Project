@@ -1,6 +1,6 @@
 # 598_007_Encrypted_Systems_Final_Project
 
-## Class Pager
+## Class Paper
  - https://portfolio.mcmullin.app/report/um/007
 
 ## Helpful Resources
